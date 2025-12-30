@@ -1,0 +1,7 @@
+{
+  "name": "Oman Hiking Automation",
+  "description": "A comprehensive React application for managing hiking events in Oman, featuring participant registration (individual/group), QR code generation simulation, and an admin dashboard for checking in/out participants via camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
